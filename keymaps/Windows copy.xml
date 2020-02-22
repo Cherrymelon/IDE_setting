@@ -15,13 +15,23 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="RecentFiles" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
