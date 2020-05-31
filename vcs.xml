@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Cherrymelon/seconds-kill.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://kcode-git.kuaishou.com/kcode/kcode-warm-up.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project" />
