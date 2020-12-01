@@ -38,6 +38,10 @@
           <option name="url" value="http://git.ricequant.com/scm/dat/dbspider.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/future-data-process.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\PycharmProjects" />
