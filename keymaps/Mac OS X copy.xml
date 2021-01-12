@@ -6,4 +6,8 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="IntroduceField" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
 </keymap>
