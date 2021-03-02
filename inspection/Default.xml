@@ -8,12 +8,20 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="5">
+        <list size="13">
           <item index="0" class="java.lang.String" itemvalue="click" />
           <item index="1" class="java.lang.String" itemvalue="dbspider" />
           <item index="2" class="java.lang.String" itemvalue="python-jenkins" />
           <item index="3" class="java.lang.String" itemvalue="tushare" />
           <item index="4" class="java.lang.String" itemvalue="rqdatac" />
+          <item index="5" class="java.lang.String" itemvalue="pandas" />
+          <item index="6" class="java.lang.String" itemvalue="watchdog" />
+          <item index="7" class="java.lang.String" itemvalue="raven" />
+          <item index="8" class="java.lang.String" itemvalue="pytest" />
+          <item index="9" class="java.lang.String" itemvalue="logbook" />
+          <item index="10" class="java.lang.String" itemvalue="gevent" />
+          <item index="11" class="java.lang.String" itemvalue="redis" />
+          <item index="12" class="java.lang.String" itemvalue="ujson" />
         </list>
       </value>
     </option>
