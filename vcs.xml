@@ -3,11 +3,79 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://192.168.0.24" />
-          <option name="userName" value="zhangrui@memect.co" />
+          <option name="url" value="http://git.ricequant.com/scm/dat/option_data.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://192.168.0.24/guangfa/gf-extractor.git" />
+          <option name="url" value="http://git.ricequant.com" />
+          <option name="userName" value="zhang.rui.py" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/script_archive.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/rqdatahub.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/rqdata2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tychxn/jd-assistant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Cherrymelon/jd-assistant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/dbspider_jobs_jenkins.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/dbspider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/future-data-process.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/equities_daybar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/factor_update.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/instrument-tools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/cjhx/cjhx-risk-alert.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/rqdata_bond.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/cjhx/risk-alert.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/rq-exchange-connectivity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/equities_minbar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ricequant.com/scm/dat/rqdata_fund.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -21,8 +89,10 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
