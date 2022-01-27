@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.weike.fm" />
           <option name="userName" value="rui.zhang@tenclass.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.weike.fm/lanxin/klas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
